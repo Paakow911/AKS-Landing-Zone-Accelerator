@@ -15,6 +15,7 @@ on:
 env:
   BICEP_ROOT_PATH: Scenarios/AKS-Secure-Baseline-PrivateCluster/Bicep/
   Subscription: 581f7dcb-3760-4a86-a86d-b8bfc8d0c7ec
+  Tenant: 8584fde7-c397-451b-9715-d7df39e504a8
   DEPLOYMENT_LOCATION: USGovTexas
   HUB_RESOURCE_GROUP: ESLZ-HUB
   SPOKE_RESOURCE_GROUP: ESLZ-SPOKE
